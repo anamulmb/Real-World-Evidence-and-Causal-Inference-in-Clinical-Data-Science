@@ -1,2 +1,2 @@
-# Causal-Inference-Methods-Clinical-Trials
-I gathered all the methods used in the Causal Inference 
+# Real-World-Evidence-and-Causal-Inference-in-Clinical-Trials
+This is a short crash course on RWE and Causal Inference. These will give a a strong understanding of the methods generally used in observation data/EMR/Healthcare data.
